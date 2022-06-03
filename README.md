@@ -1,8 +1,14 @@
-# PHP Functions Implementations
+# Programming Languages Functions Implementations
 
-Implement PHP Built In Functions Yourself
+Implement Programming Languages Built-In Functions Yourself
 
-- [ ] elzero_string_reverse()
-- [ ] elzero_string_repeat()
-- [ ] elzero_string_trim()
-- [ ] elzero_string_length()
+- [x] Intro [Watch](https://www.youtube.com/watch?v=G0iURVjGMVM)
+
+## PHP
+
+- [x] Elzero String Repeat [Watch](https://www.youtube.com/watch?v=TLBK5zoxeGA)
+
+## JavaScript
+
+- [x] Elzero String Length
+- [x] Elzero String Reverse
