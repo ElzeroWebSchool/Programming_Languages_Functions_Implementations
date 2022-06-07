@@ -10,5 +10,5 @@ Implement Programming Languages Built-In Functions Yourself
 
 ## JavaScript
 
-- [x] Elzero String Length
-- [x] Elzero String Reverse
+- [x] Elzero String Length [Watch](https://www.youtube.com/watch?v=GOdtkHn4AEA)
+- [x] Elzero String Reverse [Watch](https://www.youtube.com/watch?v=fk-LtrmW_Rs)
