@@ -25,3 +25,4 @@ Implement Programming Languages Built-In Functions Yourself
 #### Strings
 
 - [x] String Fill [Watch](https://www.youtube.com/watch?v=6_1B9DuwE2U)
+- [x] String Is Lower [Watch](https://youtu.be/4RTIn82mXCs)
