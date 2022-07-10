@@ -8,11 +8,20 @@ Implement Programming Languages Built-In Functions Yourself
 
 #### Strings
 
-- [x] Elzero String Repeat [Watch](https://www.youtube.com/watch?v=TLBK5zoxeGA)
+- [x] String Repeat [Watch](https://www.youtube.com/watch?v=TLBK5zoxeGA)
+- [x] String Length [Watch](https://www.youtube.com/watch?v=C3Ejn78rr8g)
+- [x] String To Array [Watch](https://www.youtube.com/watch?v=EWWbVXNnuyQ)
+- [x] String Left Trim [Watch](https://www.youtube.com/watch?v=7MA5peHwefE)
 
 ## JavaScript
 
 #### Strings
 
-- [x] Elzero String Length [Watch](https://www.youtube.com/watch?v=GOdtkHn4AEA)
-- [x] Elzero String Reverse [Watch](https://www.youtube.com/watch?v=fk-LtrmW_Rs)
+- [x] String Length [Watch](https://www.youtube.com/watch?v=GOdtkHn4AEA)
+- [x] String Reverse [Watch](https://www.youtube.com/watch?v=fk-LtrmW_Rs)
+
+## Python
+
+#### Strings
+
+- [x] String Fill [Watch](https://www.youtube.com/watch?v=6_1B9DuwE2U)
